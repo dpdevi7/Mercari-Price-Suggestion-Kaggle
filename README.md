@@ -1,3 +1,3 @@
 # Mercari-Price-Suggestion-Kaggle
 
-Link to blog 
+https://dp-devi03.medium.com/mercari-price-suggestion-challenge-predicting-price-of-products-using-machine-learning-57b2cc6afa90 
